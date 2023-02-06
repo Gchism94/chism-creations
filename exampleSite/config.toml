@@ -37,20 +37,20 @@ disqusShortname = ""
   URL = "products/"
   weight = 1
 
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog/"
-  weight = 2
+  #[[menu.main]]
+  #name = "Blog"
+  #URL = "blog/"
+  #weight = 2
 
-  [[menu.main]]
-  name = "FAQ"
-  URL = "faq/"
-  weight = 3
+  #[[menu.main]]
+  #name = "FAQ"
+  #URL = "faq/"
+  #weight = 3
 
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact/"
-  weight = 4
+  #[[menu.main]]
+  #name = "Contact"
+  #URL = "contact/"
+  #weight = 4
 
   ############# footer menu #############
   [[menu.footer]]
@@ -58,25 +58,25 @@ disqusShortname = ""
   URL = "products/"
   weight = 1
 
-  [[menu.footer]]
-  name = "Blog"
-  URL = "blog/"
-  weight = 2
+  #[[menu.footer]]
+  #name = "Blog"
+  #URL = "blog/"
+  #weight = 2
 
-  [[menu.footer]]
-  name = "FAQ"
-  URL = "faq/"
-  weight = 3
+  #[[menu.footer]]
+  #name = "FAQ"
+  #URL = "faq/"
+  #weight = 3
 
-  [[menu.footer]]
-  name = "Terms & Conditions"
-  URL = "terms-conditions/"
-  weight = 4
+  #[[menu.footer]]
+  #name = "Terms & Conditions"
+  #URL = "terms-conditions/"
+  #weight = 4
 
-  [[menu.footer]]
-  name = "Contact"
-  URL = "contact/"
-  weight = 5
+  #[[menu.footer]]
+  #name = "Contact"
+  #URL = "contact/"
+  #weight = 5
 
 
 #################### default parameters ################################

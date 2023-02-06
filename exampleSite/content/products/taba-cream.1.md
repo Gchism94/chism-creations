@@ -1,17 +1,17 @@
 ---
-title: "Taba Cream"
-date: 2019-10-17T11:22:16+06:00
+title: "Quiet Ears (Chameleon)"
+date: 2023-02-05T09:09:16-07:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : "Adaptive mouse ears for noise canceling headphones"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "30.00"
+priceBefore: "35.00"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "You will receive one set of Quiet Ears (headphones not included).<br>Ears are sequined on the front and the back, light weight, and comfortable for all day wear! It is not recommended to wear them while on water rides.<br>Quiet Ears fit on most headphones. They are ideal for noise canceling headphones, but will also work on music headphones.<br>Everything is handmade. Colors may vary slightly on screen.<br>If you have questions, or want a custom order, feel free to message me.<br>❤Thank you for visiting my shop❤"
 
 #product ID
 productID: "1"
@@ -22,10 +22,7 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/product-2.png"
-  - image: "images/products/product-1.png"
-  - image: "images/products/product-3.png"
-  - image: "images/products/product-4.png"
+  - image: "images/products/Chameleon-1.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
