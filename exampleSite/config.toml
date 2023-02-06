@@ -94,6 +94,7 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalyticsID = "" # Your ID
 # Contact Information
+phone = #
 email = "tressa.chism@gmail.com"
 location = "Tucson, Arizona"
 # copyright
