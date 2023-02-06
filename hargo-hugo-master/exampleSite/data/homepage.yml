@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Inclusion Bound!"
   content : "Quiet ears, adaptive mouse ears for noise canceling headphones"
-  image : "images/banner.png"
+  image : "images/banner.jpg"
   # button
   button:
     enable : true
