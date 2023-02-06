@@ -11,7 +11,12 @@ price: "30.00"
 priceBefore: "35.00"
 
 # Product Short Description
-shortDescription: "You will receive one set of Quiet Ears (headphones not included).<br>Ears are sequined on the front and the back, light weight, and comfortable for all day wear! It is not recommended to wear them while on water rides.<br>Quiet Ears fit on most headphones. They are ideal for noise canceling headphones, but will also work on music headphones.<br>Everything is handmade. Colors may vary slightly on screen.<br>If you have questions, or want a custom order, feel free to message me.<br>❤Thank you for visiting my shop❤"
+shortDescription: "You will receive one set of Quiet Ears (headphones not included).
+Ears are sequined on the front and the back, light weight, and comfortable for all day wear! It is not recommended to wear them while on water rides.
+Quiet Ears fit on most headphones. They are ideal for noise canceling headphones, but will also work on music headphones
+Everything is handmade. Colors may vary slightly on screen.
+If you have questions, or want a custom order, feel free to message me.
+❤Thank you for visiting my shop❤"
 
 #product ID
 productID: "1"
