@@ -1,3 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
 Thumbs.db
 .DS_Store
 .dist
