@@ -1,5 +1,5 @@
 ---
-title: "Quiet Ears (Chameleon)"
+title: "Quiet Ears (Bow)"
 date: 2023-02-05T09:09:16-07:00
 draft: false
 
@@ -21,7 +21,11 @@ type: "products"
 
 # product Images
 # first image will be shown in the product page
-image: "images/products/Chameleon-1.jpg"
+images:
+  - image: "images/products/RedDots-qe.jpg"
+  - image: "images/products/YellowBow-qe.jpg"
+  - image: "images/products/LightBlueBow-qe.jpg"
+  - image: "images/products/LightPinkBow-qe.jpg"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).
