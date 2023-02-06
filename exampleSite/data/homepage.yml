@@ -25,7 +25,7 @@ about:
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Free shipping on orders of $50 or more"
+  title : "Free shipping on orders of $50+"
   content : "Available for limited time only. Grab one while you still can!"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
