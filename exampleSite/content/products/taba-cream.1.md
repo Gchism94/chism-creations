@@ -21,8 +21,7 @@ type: "products"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - image: "images/products/Chameleon-1.jpg"
+image: "images/products/Chameleon-1.jpg"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).
