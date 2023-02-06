@@ -94,9 +94,8 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalyticsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+email = "tressa.chism@gmail.com"
+location = "Tucson, Arizona"
 # copyright
 copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 # Snipcart Credentials
@@ -118,23 +117,23 @@ currencySymbol = "$"
   # Social Site
   [[params.social]]
   icon = "ti-facebook"
-  link = "#"
+  link = "https://www.facebook.com/ChismCreations"
 
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "#"
+  #[[params.social]]
+  #icon = "ti-twitter-alt"
+  #link = "#"
 
-  [[params.social]]
-  icon = "ti-youtube"
-  link = "#"
+  #[[params.social]]
+  #icon = "ti-youtube"
+  #link = "#"
 
   [[params.social]]
   icon = "ti-instagram"
-  link = "#"
+  link = "https://www.instagram.com/chismcreations/"
 
-  [[params.social]]
-  icon = "ti-pinterest"
-  link = "#"
+  #[[params.social]]
+  #icon = "ti-pinterest"
+  #link = "#"
 
   # Contact Form
   [params.contact]
