@@ -1,5 +1,5 @@
 ---
-title: "Quiet Ears (Monster)"
+title: "Quiet Ears (White Bow)"
 date: 2023-02-05T09:09:16-07:00
 draft: false
 
@@ -22,10 +22,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/Monster_1.jpg"
-  - image: "images/products/Monster_2.jpg"
-  - image: "images/products/Monster_3.jpg"
-  - image: "images/products/Monster_4.jpg"
+  - image: "images/products/White_1.jpg"
+  - image: "images/products/White_2.jpg"
+  - image: "images/products/White_3.jpg"
+  - image: "images/products/White_4.jpg"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).

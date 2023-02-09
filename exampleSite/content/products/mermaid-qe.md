@@ -1,5 +1,5 @@
 ---
-title: "Quiet Ears (Monster)"
+title: "Quiet Ears (Mermaid)"
 date: 2023-02-05T09:09:16-07:00
 draft: false
 
@@ -22,10 +22,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/Monster_1.jpg"
-  - image: "images/products/Monster_2.jpg"
-  - image: "images/products/Monster_3.jpg"
-  - image: "images/products/Monster_4.jpg"
+  - image: "images/products/Mermaid_1.jpg"
+  - image: "images/products/Mermaid_2.jpg"
+  - image: "images/products/Mermaid_3.jpg"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).

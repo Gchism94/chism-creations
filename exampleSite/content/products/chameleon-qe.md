@@ -22,12 +22,15 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/Chameleon-1.jpg"
+  - image: "images/products/Chameleon_1.jpg"
+  - image: "images/products/Chameleon_2.jpg"
+  - image: "images/products/Chameleon_3.jpg"
+  - image: "images/products/Chameleon_4.jpg"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).
 
-Ears are sequined on the front and the back, light weight, and comfortable for all day wear! It is not recommended to wear them while on water rides.
+Ears are sequined on the front and the back, lightweight, and comfortable for all day wear! It is not recommended to wear them while on water rides.
 
 Quiet Ears fit on most headphones. They are ideal for noise canceling headphones, but will also work on music headphones.
 

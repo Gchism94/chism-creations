@@ -1,5 +1,5 @@
 ---
-title: "Quiet Ears (Monster)"
+title: "Quiet Ears (Dreamer)"
 date: 2023-02-05T09:09:16-07:00
 draft: false
 
@@ -22,10 +22,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/Monster_1.jpg"
-  - image: "images/products/Monster_2.jpg"
-  - image: "images/products/Monster_3.jpg"
-  - image: "images/products/Monster_4.jpg"
+  - image: "images/products/dreamer_1.jpg"
+  - image: "images/products/dreamer_2.jpg"
+  - image: "images/products/dreamer_3.jpg"
+  - image: "images/products/dreamer_4.jpg"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).

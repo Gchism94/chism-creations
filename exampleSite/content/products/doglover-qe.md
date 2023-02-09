@@ -1,5 +1,5 @@
 ---
-title: "Quiet Ears (Bow)"
+title: "Quiet Ears (Dog Lover)"
 date: 2023-02-05T09:09:16-07:00
 draft: false
 
@@ -22,15 +22,15 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/RedDots-qe.jpg"
-  - image: "images/products/YellowBow-qe.jpg"
-  - image: "images/products/LightBlueBow-qe.jpg"
-  - image: "images/products/LightPinkBow-qe.jpg"
+  - image: "images/products/doglover_1.jpg"
+  - image: "images/products/doglover_2.jpg"
+  - image: "images/products/doglover_3.jpg"
+  - image: "images/products/doglover_4.jpg"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).
 
-Ears are sequined on the front and the back, light weight, and comfortable for all day wear! It is not recommended to wear them while on water rides.
+Ears are sequined on the front and the back, lightweight, and comfortable for all day wear! It is not recommended to wear them while on water rides.
 
 Quiet Ears fit on most headphones. They are ideal for noise canceling headphones, but will also work on music headphones.
 
