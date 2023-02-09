@@ -92,7 +92,7 @@ mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
 mapMarker = "images/marker.png"
 # Google Analitycs
-googleAnalyticsID = "" # Your ID
+googleAnalyticsID = "G-NEL6QWPGF7" # Your ID
 # Contact Information
 email = "tressa.chism@gmail.com"
 location = "Tucson, Arizona"
