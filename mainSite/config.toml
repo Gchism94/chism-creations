@@ -94,7 +94,7 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalyticsID = "G-NEL6QWPGF7" # Your ID
 # Contact Information
-email = "tressa.chism@gmail.com"
+email = "chismcreations@gmail.com"
 location = "Tucson, Arizona"
 # copyright
 copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
@@ -122,6 +122,10 @@ currencySymbol = "$"
   #[[params.social]]
   #icon = "ti-twitter-alt"
   #link = "#"
+
+  [[params.social]]
+  icon = "ti-wand"
+  link = "Linktree"
 
   #[[params.social]]
   #icon = "ti-youtube"
