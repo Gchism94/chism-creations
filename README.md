@@ -50,7 +50,7 @@ Repository for the Chism Creations e-commerce website
 git clone git@github.com:themefisher/hargo-hugo.git
 
 # cd in the project directory
-$ cd hargo-hugo/exampleSite/
+$ cd hargo-hugo/mainSite/
 
 # Start local dev server
 $ hugo server --themesDir ../..
