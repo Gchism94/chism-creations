@@ -123,10 +123,6 @@ currencySymbol = "$"
   #icon = "ti-twitter-alt"
   #link = "#"
 
-  [[params.social]]
-  icon = "ti-wand"
-  link = "https://linktr.ee/ChismCreations"
-
   #[[params.social]]
   #icon = "ti-youtube"
   #link = "#"
@@ -134,6 +130,10 @@ currencySymbol = "$"
   [[params.social]]
   icon = "ti-instagram"
   link = "https://www.instagram.com/chismcreations/"
+
+  [[params.social]]
+  icon = "ti-wand"
+  link = "https://linktr.ee/ChismCreations"
 
   #[[params.social]]
   #icon = "ti-pinterest"
