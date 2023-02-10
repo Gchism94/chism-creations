@@ -125,7 +125,7 @@ currencySymbol = "$"
 
   [[params.social]]
   icon = "ti-wand"
-  link = "Linktree"
+  link = "https://linktr.ee/ChismCreations"
 
   #[[params.social]]
   #icon = "ti-youtube"
