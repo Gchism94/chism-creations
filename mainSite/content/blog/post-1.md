@@ -1,26 +1,15 @@
 ---
-title: "Lower Back Pain? Self-Administered Acupressure Could Help"
+title: "About the Creator"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 description : "this is a meta description"
-image: "images/blog/post-1.jpg"
-author: "John Doe"
+image: "images/blog/heart.jpg"
+author: "Tressa Chism"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+My name is Tressa Chism, and I am a licensed Speech-Language Pathologist working for a school system in Arizona. Originally, I am from northern California where I got my degree, and moved to Arizona with my husband in 2019. Besides my students, my other love is all things Disney. I had the privilege to hold an annual pass to Disneyland for the year during my Graduate Schooling. That year, I was Disneybound EVERY weekend. Some days I would go just to sit and listen to the noises of Disney and admire everyone’s amazing themed outfits. 
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+I started creating mouse ears in 2021, but could not help thinking of my students with sensory needs. My students with noise sensitivities would not be able to wear headbands while wearing noise canceling headphones. That is when I created Quiet Ears! Quiet Ears would allow those with noise sensitivities to take part in the simple pleasure of wearing mouse ears to Disney. Let's strive to make Disney #inclusionbound with Quiet Ears! 
+My name is Tressa Chism, and I am a licensed Speech-Language Pathologist working for a school system in Arizona. Originally, I am from northern California where I got my degree, and moved to Arizona with my husband in 2019. Besides my students, my other love is all things Disney. I had the privilege to hold an annual pass to Disneyland for the year during my Graduate Schooling. That year, I was Disneybound EVERY weekend. Some days I would go just to sit and listen to the noises of Disney and admire everyone’s amazing themed outfits. 
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
-
-> And yes, it does attach an image of you selecting a text on Medium instead of just quoting the text. What a mess with blog.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
-
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+I started creating mouse ears in 2021, but could not help thinking of my students with sensory needs. My students with noise sensitivities would not be able to wear headbands while wearing noise canceling headphones. That is when I created Quiet Ears! Quiet Ears would allow those with noise sensitivities to take part in the simple pleasure of wearing mouse ears to Disney. Let's strive to make Disney #inclusionbound with Quiet Ears! 
