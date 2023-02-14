@@ -11,4 +11,4 @@ Disney bounding is a substantial part of the Disney culture. Decorative headband
 
 Let's be #inclusionbound with Quiet Ears! Adaptive headphone attachments for Disney lovers! Quiet Ears are mouse ears you attach to headphones. allowing those with noise sensitivities to enjoy the Disney Bounding. 
 
-<img title="Quiet Ears Directions" src="/images/blog/QuietEars_Directions.png">
+<img title="Quiet Ears Directions" alt="QE Directions" src="/images/blog/QuietEars_Directions.png">
