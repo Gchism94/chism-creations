@@ -38,7 +38,7 @@ disqusShortname = ""
   weight = 1
 
   [[menu.main]]
-  name = "Blog"
+  name = "About"
   URL = "blog/"
   weight = 2
 
@@ -59,7 +59,7 @@ disqusShortname = ""
   weight = 1
 
   [[menu.footer]]
-  name = "Blog"
+  name = "About"
   URL = "blog/"
   weight = 2
 
