@@ -41,11 +41,11 @@ disqusShortname = ""
   name = "About"
   URL = "blog/"
   weight = 2
-
-  #[[menu.main]]
-  #name = "FAQ"
-  #URL = "faq/"
-  #weight = 3
+  
+  [[menu.main]]
+  name = "FAQ"
+  URL = "faq/"
+  weight = 3
 
   #[[menu.main]]
   #name = "Contact"
@@ -59,14 +59,9 @@ disqusShortname = ""
   weight = 1
 
   [[menu.footer]]
-  name = "About"
-  URL = "blog/"
-  weight = 2
-
-  #[[menu.footer]]
-  #name = "FAQ"
-  #URL = "faq/"
-  #weight = 3
+  name = "FAQ"
+  URL = "faq/"
+  weight = 3
 
   [[menu.footer]]
   name = "Terms & Conditions"
