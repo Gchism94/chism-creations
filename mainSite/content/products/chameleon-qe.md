@@ -1,6 +1,6 @@
 ---
 title: "Quiet Ears (Chameleon)"
-date: 2023-02-05T09:09:16-07:00
+date: 2023-02-16T09:08:55-07:00
 draft: false
 
 # meta description
@@ -14,7 +14,7 @@ priceBefore: "35.00"
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "1"
+productID: "23"
 
 # type must be "products"
 type: "products"
@@ -24,8 +24,7 @@ type: "products"
 images:
   - image: "images/products/Chameleon_1.jpg"
   - image: "images/products/Chameleon_2.jpg"
-  - image: "images/products/Chameleon_3.jpg"
-  - image: "images/products/Chameleon_4.jpg"
+  - image: "images/products/Chameleon_4.png"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).
