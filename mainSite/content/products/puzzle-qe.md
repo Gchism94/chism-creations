@@ -1,6 +1,6 @@
 ---
 title: "Quiet Ears (Puzzle)"
-date: 2023-02-16T09:09:02-07:00
+date: 2023-02-16T09:09:01-07:00
 draft: false
 
 # meta description
