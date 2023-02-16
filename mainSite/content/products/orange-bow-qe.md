@@ -14,7 +14,7 @@ priceBefore: "30.00"
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "1"
+productID: "4"
 
 # type must be "products"
 type: "products"
