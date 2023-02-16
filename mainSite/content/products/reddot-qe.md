@@ -7,8 +7,8 @@ draft: false
 description : "Adaptive mouse ears for noise canceling headphones"
 
 # product Price
-price: "25.00"
-priceBefore: "30.00"
+price: "32.00"
+priceBefore: "37.00"
 
 # Product Short Description
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
