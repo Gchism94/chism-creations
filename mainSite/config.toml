@@ -85,7 +85,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Greg Chism"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
@@ -97,7 +97,7 @@ googleAnalyticsID = "G-NEL6QWPGF7" # Your ID
 email = "chismcreations@gmail.com"
 location = "Tucson, Arizona"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2023 Chism Creations All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "OWZlMjM3YzItM2ZkYy00NDU3LWIyMGQtYTMwMDZiZGQ4NzUxNjM4MTA4MTI0Njk3NzY2MDMx"
 currencySymbol = "$"
