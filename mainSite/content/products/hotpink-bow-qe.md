@@ -1,6 +1,6 @@
 ---
 title: "Quiet Ears (Hot Pink Bow)"
-date: 2023-02-05T09:09:16-07:00
+date: 2023-02-16T09:09:15-07:00
 draft: false
 
 # meta description
@@ -24,8 +24,7 @@ type: "products"
 images:
   - image: "images/products/HotPink_1.jpg"
   - image: "images/products/HotPink_2.jpg"
-  - image: "images/products/HotPink_3.jpg"
-  - image: "images/products/HotPink_4.jpg"
+  - image: "images/products/HotPink_4.png"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).

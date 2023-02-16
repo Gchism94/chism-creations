@@ -1,6 +1,6 @@
 ---
-title: "Quiet Ears (Red Dot)"
-date: 2023-02-05T09:09:16-07:00
+title: "Quiet Ears (Red Bow)"
+date: 2023-02-16T09:09:16-07:00
 draft: false
 
 # meta description
@@ -22,10 +22,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/RedDot_1.jpg"
-  - image: "images/products/RedDot_2.jpg"
-  - image: "images/products/RedDot_3.jpg"
-  - image: "images/products/RedDot_4.jpg"
+  - image: "images/products/Red_1.jpg"
+  - image: "images/products/Red_2.jpg"
+  - image: "images/products/Red_4.png"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).
