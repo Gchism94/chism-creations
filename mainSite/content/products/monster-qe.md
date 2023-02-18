@@ -24,7 +24,6 @@ type: "products"
 images:
   - image: "images/products/Monster_1.jpg"
   - image: "images/products/Monster_2.jpg"
-\  - image: "images/products/Monster_4.png"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).

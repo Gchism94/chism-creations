@@ -24,8 +24,6 @@ type: "products"
 images:
   - image: "images/products/doglover_1.jpg"
   - image: "images/products/doglover_2.jpg"
-  - image: "images/products/doglover_3.jpg"
-  - image: "images/products/doglover_4.png"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).

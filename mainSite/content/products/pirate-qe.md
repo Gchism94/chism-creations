@@ -24,7 +24,7 @@ type: "products"
 images:
   - image: "images/products/Pirate_1.jpg"
   - image: "images/products/Pirate_2.jpg"
-  - image: "images/products/Pirate_4.png"
+  - image: "images/products/Pirate_3.jpg"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).

@@ -24,7 +24,6 @@ type: "products"
 images:
   - image: "images/products/Chameleon_1.jpg"
   - image: "images/products/Chameleon_2.jpg"
-  - image: "images/products/Chameleon_4.png"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).

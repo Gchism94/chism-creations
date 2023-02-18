@@ -25,7 +25,6 @@ images:
   - image: "images/products/dreamer_1.jpg"
   - image: "images/products/dreamer_2.jpg"
   - image: "images/products/dreamer_3.jpg"
-  - image: "images/products/dreamer_4.png"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).
