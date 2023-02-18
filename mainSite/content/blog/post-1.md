@@ -3,7 +3,7 @@ title: "About the Creator"
 date: 2023-02-14T11:22:16+06:00
 draft: false
 description : "this is a meta description"
-image: "images/blog/heart.jpg"
+image: "images/blog/AboutMe.png"
 
 author: "Tressa Chism"
 ---
