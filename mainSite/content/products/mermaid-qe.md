@@ -24,7 +24,7 @@ type: "products"
 images:
   - image: "images/products/Mermaid_1.jpg"
   - image: "images/products/Mermaid_2.jpg"
-  - image: "images/products/Mermaid_4.png"
+  - image: "images/products/Mermaid_3.png"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).

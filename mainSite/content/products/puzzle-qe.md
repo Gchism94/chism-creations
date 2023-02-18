@@ -24,7 +24,7 @@ type: "products"
 images:
   - image: "images/products/Puzzle_1.jpg"
   - image: "images/products/Puzzle_2.jpg"
-  - image: "images/products/Puzzle_4.png"
+  - image: "images/products/Puzzle_3.png"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).
