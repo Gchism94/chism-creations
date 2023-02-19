@@ -57,8 +57,11 @@ testimonial:
   title : "What People Are Saying <br> About Quiet Ears!"
   testimonialItem:
     # testimonial item loop
-    - name : "Etsy Reviewer"
+    - name : ""
+      image: ""
+      designation: "Etsy Reviewer"
       content : "These are SO adorable! I'm so excited to be able to enjoy Disney while wearing ears again!"
+      rating: "five"
       
     # testimonial item loop
    # - name : "Riya Ventila"
