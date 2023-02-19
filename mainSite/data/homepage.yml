@@ -74,15 +74,15 @@ testimonial:
     - name : ""
       image : "" # size 100px*100px
       designation: "Etsy Reviewer"
-      content : "These are perfect can’t wait to show them off"
+      content : "These are perfect can’t wait to show them off."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-   # - name : "john Doe"
-   #   image : "images/clients/client-3.jpg" # size 100px*100px
-   #   designation : "CEO, Dialogue Broad Band"
-   #   content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
-   #   rating : "five" # rating star, one to five
+    - name : "Amanda H."
+      image : "" # size 100px*100px
+      designation : "Etsy Reviewer"
+      content : "These ears shipped very quickly and arrived in good condition. They're cute AND sturdy, I love the pearl details and the double bow!"
+      rating : "five" # rating star, one to five
       
     # testimonial item loop
    # - name : "Riya Ventila"
