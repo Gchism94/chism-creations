@@ -62,3 +62,11 @@
 {{ partial "cta.html" . }}
 
 {{ end }}
+
+{{ with .Resources.ByType "image" }}
+  {{ range $image := . }}
+     {{ partial "responsive-image" (dict "Site" $.Site 
+                                         "image" $image 
+                                         "attrs" (dict "class" "portfolio-photo" )) }}
+  {{ end }}
+{{ end }}
