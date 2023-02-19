@@ -62,20 +62,20 @@ testimonial:
       designation: "Etsy Reviewer"
       content : "These are SO adorable! I'm so excited to be able to enjoy Disney while wearing ears again!"
       rating: "five"
-      
+
     # testimonial item loop
     - name : ""
       image: ""
       designation: "Etsy Reviewer"
-      content : "These are SO adorable! I'm so excited to be able to enjoy Disney while wearing ears again!"
+      content : "My daughter loves her Quiet Ears!"
       rating: "five"
       
     # testimonial item loop
-   # - name : "Riya Ventila"
-   #   image : "images/clients/client-2.jpg" # size 100px*100px
-   #   designation : "CEO, Dialogue Broad Band"
-   #   content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
-   #   rating : "three" # rating star, one to five
+    - name : ""
+      image : "" # size 100px*100px
+      designation: "Etsy Reviewer"
+      content : "These are perfect can’t wait to show them off"
+      rating : "five" # rating star, one to five
       
     # testimonial item loop
    # - name : "john Doe"
