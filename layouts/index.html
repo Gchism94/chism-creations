@@ -34,7 +34,7 @@
         {{ end }}
       </div>
       <div class="col-lg-7 col-md-6 order-1 order-lg-2">
-        <img src="{{ .image | absURL }}" class="img-fluid" alt="">
+        {{ partial "img" (dict "img" $img "alt" "Some alt text") }}
       </div>
     </div>
   </div>
