@@ -75,11 +75,7 @@ disqusShortname = ""
 
 
 #################### default parameters ################################
-[imaging]
-quality = 70
 [params]
-landscapePhotoWidths = [2500, 1500, 1000]
-portraitPhotoWidths = [1500, 1000, 750]
 logo = "images/logo.png"
 home = "Home"
 # Meta data
