@@ -58,35 +58,35 @@ testimonial:
   testimonialItem:
     # testimonial item loop
     - name : ""
-      image: ""
+      image: "images/testimonial/Review.jpg"
       designation: "Etsy Reviewer"
       content : "These are SO adorable! I'm so excited to be able to enjoy Disney while wearing ears again!"
       rating: "five"
 
     # testimonial item loop
     - name : ""
-      image: ""
+      image: "images/testimonial/Review.jpg"
       designation: "Etsy Reviewer"
       content : "My daughter loves her Quiet Ears!"
       rating: "five"
       
     # testimonial item loop
     - name : ""
-      image : "" # size 100px*100px
+      image: "images/testimonial/Review.jpg"
       designation: "Etsy Reviewer"
       content : "These are perfect can’t wait to show them off."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Amanda H."
-      image : "" # size 100px*100px
+      image: "images/testimonial/Amanda_review.jpg"
       designation : "Etsy Reviewer"
       content : "These ears shipped very quickly and arrived in good condition. They're cute AND sturdy, I love the pearl details and the double bow!"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Tracy W."
-      image : "" # size 100px*100px
+      image: "images/testimonial/Mom-Review.jpg"
       designation : "Etsy Reviewer"
       content : "Very happy with my purchase, shipped fast and arrived as ordered. The fit is great, these ears can be worn all day. The color and quality are amazing. Will definitely be getting a few different designs."
       rating : "five" # rating star, one to five
