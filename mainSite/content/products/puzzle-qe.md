@@ -1,6 +1,6 @@
 ---
 title: "Quiet Ears (Puzzle)"
-date: 2023-02-16T09:09:01-07:00
+date: 2023-02-19T09:08:50-07:00
 draft: false
 
 # meta description
@@ -14,7 +14,7 @@ priceBefore: "37.00"
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "17"
+productID: "8"
 
 # type must be "products"
 type: "products"

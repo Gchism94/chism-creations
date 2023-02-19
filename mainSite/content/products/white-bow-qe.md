@@ -1,6 +1,6 @@
 ---
 title: "Quiet Ears (White Bow)"
-date: 2023-02-16T09:09:03-07:00
+date: 2023-02-19T09:08:36-07:00
 draft: false
 
 # meta description
@@ -14,7 +14,7 @@ priceBefore: "31.00"
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "15"
+productID: "22"
 
 # type must be "products"
 type: "products"

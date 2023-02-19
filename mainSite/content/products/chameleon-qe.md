@@ -1,6 +1,6 @@
 ---
 title: "Quiet Ears (Chameleon)"
-date: 2023-02-16T09:08:55-07:00
+date: 2023-02-19T09:08:54-07:00
 draft: false
 
 # meta description
@@ -14,7 +14,7 @@ priceBefore: "37.00"
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "23"
+productID: "4"
 
 # type must be "products"
 type: "products"
