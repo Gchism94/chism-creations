@@ -85,8 +85,8 @@ testimonial:
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-   # - name : "Riya Ventila"
-   #   image : "images/clients/client-2.jpg" # size 100px*100px
-   #   designation : "CEO, Dialogue Broad Band"
-   #   content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
-   #   rating : "four" # rating star, one to five
+    - name : "Tracy W."
+      image : "" # size 100px*100px
+      designation : "Etsy Reviewer"
+      content : "Very happy with my purchase, shipped fast and arrived as ordered. The fit is great, these ears can be worn all day. The color and quality are amazing. Will definitely be getting a few different designs."
+      rating : "five" # rating star, one to five
