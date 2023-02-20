@@ -12,7 +12,7 @@ Everything is handmade, and will have imperfections. Colors may vary slightly on
 It is not recommended to wear ears on water rides due to the cardboard interior. 
 
 
-### Product Buy & delivery policy
+### Product Buy & Delivery Policy
 
 Please allow 14 days for product production and shipping, especially for custom orders. We collect a local and state sales tax of 8.7%, please refer to [here](https://www.avalara.com/taxrates/en/state-rates/arizona/cities/tucson.html#:~:text=The%20minimum%20combined%202023%20sales,sales%20tax%20rate%20is%200%25.) if you have concerns. 
 
