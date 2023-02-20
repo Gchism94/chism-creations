@@ -1,6 +1,6 @@
 <h1 align=center>Chism Creations E-Commerce Site</h1> 
 <p align=center>Chism Creations sells inclusive mouse ears for noise cancelling headphones.</p>
-<h2 align="center"><a target="_blank" href="https://main--chismcreations.netlify.app/" rel="nofollow">Home Page</a> </h2>
+<h2 align="center"><a target="_blank" href="https://chismcreations.com/" rel="nofollow">Home Page</a> </h2>
 
 
 
