@@ -19,4 +19,4 @@
 License
 Copyright © Designed by Themefisher & Developed by Gethugothemes
 
-Code License: Released under the MIT license.
+Code License: Released under the MIT license
