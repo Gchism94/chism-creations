@@ -24,7 +24,7 @@ type: "products"
 images:
   - image: "images/products/RedDot_1.jpg"
   - image: "images/products/RedDot_2.jpg"
-  - image: "images/products/RedDot_3.png"
+  - image: "images/products/universal_2.png"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).

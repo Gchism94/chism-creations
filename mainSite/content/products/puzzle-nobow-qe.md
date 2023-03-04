@@ -23,8 +23,8 @@ type: "products"
 # first image will be shown in the product page
 images:
   - image: "images/products/NoPuzzle_1.jpg"
-  - image: "images/products/NoPuzzle_2.jpg"
-  - image: "images/products/NoPuzzle_3.png"
+  - image: "images/products/universal_1.jpg"
+  - image: "images/products/universal_2.png"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).
