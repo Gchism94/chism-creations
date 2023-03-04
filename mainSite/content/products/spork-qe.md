@@ -1,5 +1,5 @@
 ---
-title: "Quiet Ears (Clown Fish)"
+title: "Quiet Ears (Spork)"
 date: 2023-03-04T12:20:47-07:00
 draft: false
 
@@ -14,7 +14,7 @@ priceBefore: "37.00"
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "26"
+productID: "27"
 
 # type must be "products"
 type: "products"
