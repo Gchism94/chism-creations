@@ -1,20 +1,20 @@
 ---
-title: "Quiet Ears (Dog Lover)"
-date: 2023-03-04T12:20:51-07:00
+title: "Quiet Ears, No Bow (Black)"
+date: 2023-03-04T12:20:47-07:00
 draft: false
 
 # meta description
 description : "Adaptive mouse ears for noise canceling headphones"
 
 # product Price
-price: "32.00"
-priceBefore: "37.00"
+price: "26.00"
+priceBefore: "31.00"
 
 # Product Short Description
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "7"
+productID: "27"
 
 # type must be "products"
 type: "products"
@@ -22,8 +22,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/doglover_1.jpg"
-  - image: "images/products/doglover_2.jpg"
+  - image: "images/products/NoBow_1.jpg"
+  - image: "images/products/NoBow_2.jpg"
+  - image: "images/products/NoBow_3.png"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).

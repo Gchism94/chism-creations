@@ -1,6 +1,6 @@
 ---
 title: "Quiet Ears (Pirate)"
-date: 2023-02-19T09:08:52-07:00
+date: 2023-03-04T12:20:52-07:00
 draft: false
 
 # meta description
