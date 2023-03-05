@@ -19,6 +19,10 @@ productID: "24"
 # type must be "products"
 type: "products"
 
+# product tag/category
+tags: 
+  - "custom"
+
 # product Images
 # first image will be shown in the product page
 images:

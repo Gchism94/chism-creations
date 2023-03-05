@@ -1,6 +1,6 @@
 ---
-title: "Quiet Ears (Dreamer)"
-date: 2023-03-04T12:20:55-07:00
+title: "Quiet Ears (Dog Lover)"
+date: 2023-03-04T12:20:51-07:00
 draft: false
 
 # meta description
@@ -14,17 +14,20 @@ priceBefore: "37.00"
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "3"
+productID: "7"
 
 # type must be "products"
 type: "products"
 
+# product tag/category
+tags: 
+  - "bow"
+
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/dreamer_1.jpg"
-  - image: "images/products/dreamer_2.jpg"
-  - image: "images/products/dreamer_3.jpg"
+  - image: "images/products/doglover_1.jpg"
+  - image: "images/products/doglover_2.jpg"
 ---
 
 You will receive one set of Quiet Ears (headphones not included).

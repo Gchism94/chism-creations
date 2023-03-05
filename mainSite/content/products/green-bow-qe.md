@@ -1,29 +1,32 @@
 ---
-title: "Quiet Ears, No Bow (Puzzle)"
-date: 2023-03-04T12:20:49-07:00
+title: "Quiet Ears (Green Bow)"
+date: 2023-02-19T09:08:42-07:00
 draft: false
 
 # meta description
 description : "Adaptive mouse ears for noise canceling headphones"
 
 # product Price
-price: "32.00"
-priceBefore: "37.00"
+price: "26.00"
+priceBefore: "31.00"
 
 # Product Short Description
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "25"
+productID: "16"
 
 # type must be "products"
 type: "products"
 
+# product tag/category
+tags: 
+  - "bow"
+
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/NoPuzzle_1.jpg"
-  - image: "images/products/universal_1.jpg"
+  - image: "images/products/Green_1.jpg"
   - image: "images/products/universal_2.png"
 ---
 

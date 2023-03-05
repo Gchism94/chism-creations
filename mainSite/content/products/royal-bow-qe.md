@@ -1,6 +1,6 @@
 ---
-title: "Quiet Ears, No Bow (Black)"
-date: 2023-03-04T12:20:47-07:00
+title: "Quiet Ears (Royal Blue Bow)"
+date: 2023-02-19T09:08:39-07:00
 draft: false
 
 # meta description
@@ -14,16 +14,19 @@ priceBefore: "31.00"
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "28"
+productID: "19"
 
 # type must be "products"
 type: "products"
 
+# product tag/category
+tags: 
+  - "bow"
+
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/NoBow_1.jpg"
-  - image: "images/products/universal_1.jpg"
+  - image: "images/products/Royal_1.jpg"
   - image: "images/products/universal_2.png"
 ---
 

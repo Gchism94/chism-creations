@@ -1,6 +1,6 @@
 ---
-title: "Quiet Ears (Purple Bow)"
-date: 2023-02-19T09:08:37-07:00
+title: "Quiet Ears (Cinder Blue Bow)"
+date: 2023-02-19T09:08:40-07:00
 draft: false
 
 # meta description
@@ -14,15 +14,19 @@ priceBefore: "31.00"
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "21"
+productID: "18"
 
 # type must be "products"
 type: "products"
 
+# product tag/category
+tags: 
+  - "bow"
+  
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/Purple_1.jpg"
+  - image: "images/products/CinderBlue_1.jpg"
   - image: "images/products/universal_2.png"
 ---
 

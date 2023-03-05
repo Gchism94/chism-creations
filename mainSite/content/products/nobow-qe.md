@@ -1,29 +1,33 @@
 ---
-title: "Quiet Ears (Red Dot)"
-date: 2023-03-04T12:20:56-07:00
+title: "Quiet Ears, No Bow (Black)"
+date: 2023-03-04T12:20:47-07:00
 draft: false
 
 # meta description
 description : "Adaptive mouse ears for noise canceling headphones"
 
 # product Price
-price: "32.00"
-priceBefore: "37.00"
+price: "26.00"
+priceBefore: "31.00"
 
 # Product Short Description
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "2"
+productID: "28"
 
 # type must be "products"
 type: "products"
 
+# product tag/category
+tags: 
+  - "noBow"
+
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/RedDot_1.jpg"
-  - image: "images/products/RedDot_2.jpg"
+  - image: "images/products/NoBow_1.jpg"
+  - image: "images/products/universal_1.jpg"
   - image: "images/products/universal_2.png"
 ---
 

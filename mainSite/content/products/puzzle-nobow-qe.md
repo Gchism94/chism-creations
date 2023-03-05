@@ -1,6 +1,6 @@
 ---
-title: "Quiet Ears (Spork)"
-date: 2023-03-04T12:20:47-07:00
+title: "Quiet Ears, No Bow (Puzzle)"
+date: 2023-03-04T12:20:49-07:00
 draft: false
 
 # meta description
@@ -14,15 +14,19 @@ priceBefore: "37.00"
 shortDescription: "Adaptive mouse ears for noise canceling headphones."
 
 #product ID
-productID: "27"
+productID: "25"
 
 # type must be "products"
 type: "products"
 
+# product tag/category
+tags: 
+  - "noBow"
+
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/Spork_1.jpg"
+  - image: "images/products/NoPuzzle_1.jpg"
   - image: "images/products/universal_1.jpg"
   - image: "images/products/universal_2.png"
 ---

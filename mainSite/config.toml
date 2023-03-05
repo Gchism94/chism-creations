@@ -37,19 +37,19 @@ disqusShortname = ""
 
   [[menu.main]]
   name = "Bow"
-  URL = "products/bow"
+  URL = "tags/bow"
   parent = "products"
   weight = 1
 
   [[menu.main]]
   name = "No Bow"
-  URL = "products/noBow"
+  URL = "tags/noBow"
   parent = "products"
   weight = 2
 
   [[menu.main]]
   name = "Custom"
-  URL = "products/custom"
+  URL = "tags/custom"
   parent = "products"
   weight = 3
 
