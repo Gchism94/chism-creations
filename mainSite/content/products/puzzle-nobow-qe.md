@@ -19,10 +19,6 @@ productID: "25"
 # type must be "products"
 type: "products"
 
-# product tag/category
-tags: 
-  - "noBow"
-
 # product Images
 # first image will be shown in the product page
 images:
