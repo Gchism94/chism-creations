@@ -134,6 +134,13 @@
               data-item-custom1="Bow option" date-item-custom1-options="Bow|No Bow" data-item-custom1-value="Bow" data-item-custom1-required="true">
               Add to cart
             </button>
+            <script>
+              const select = document.querySelector('#bow_option')
+              select.addEventListener('change', () => {
+              // Sets the default bow option when adding the item
+              button.setAttribute("data-item-custom1-value", select.value)
+            })
+            </script>
           </div>
         </div>
       </div>
