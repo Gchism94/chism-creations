@@ -25,7 +25,7 @@
             <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
               data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
               {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}"
-              data-item-custom1-name="Bow option" data-item-custom1-options="Bow|No_bow" data-item-custom1-required="true">
+              data-item-custom1-name="Bow option" data-item-custom1-options="Bow|No Bow" data-item-custom1-required="true">
               Add to cart
             </button>
           </div>
