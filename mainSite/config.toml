@@ -32,7 +32,7 @@ disqusShortname = ""
 
  [[menu.main]]
   name = "Quiet Ears"
-  url = "quiet-ears/"
+  url = "products/"
   weight = 1
 
 
