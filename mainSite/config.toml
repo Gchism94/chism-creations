@@ -33,34 +33,34 @@ disqusShortname = ""
   [[menu.main]]
   name = "Products"
   hasChildren = true
-  weight = 10
-
-  [[menu.main]]
-  name = "Quiet Ears"
-  url = "/products/quiet-ears"
-  parent = "Products"
   weight = 1
+
+    [[menu.main]]
+    name = "Quiet Ears"
+    url = "/products/quiet-ears"
+    parent = "Products"
+    weight = 1
   
-  [[menu.main]]
-  name = "Crochet"
-  url = "/products/crochet"
-  parent = "Products"
-  weight = 2
+    [[menu.main]]
+    name = "Crochet"
+    url = "/products/crochet"
+    parent = "Products"
+    weight = 2
 
   [[menu.main]]
   name = "About"
   url = "blog/"
-  weight = 20
+  weight = 2
   
   [[menu.main]]
   name = "FAQ"
   url = "faq/"
-  weight = 30
+  weight = 3
 
   #[[menu.main]]
   #name = "Contact"
   #url = "contact/"
-  #weight = 40
+  #weight = 4
 
   ############# footer menu #############
   [[menu.footer]]
