@@ -32,7 +32,7 @@ disqusShortname = ""
 
   [[menu.main]]
   name = "Products"
-  url = "products/"
+  hasChildren = true
   weight = 10
 
   [[menu.main]]
