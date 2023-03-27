@@ -30,22 +30,11 @@ disqusShortname = ""
 ############################## navigation ###############################
 [menu]
 
-  [[menu.main]]
-  name = "Products"
-  url = "products/"
+ [[menu.main]]
+  name = "Quiet Ears"
+  url = "quiet-ears/"
   weight = 1
 
-    [[menu.main]]
-    name = "Quiet Ears"
-    url = "/tags/quiet-ears"
-    parent = "Products"
-    weight = 1
-  
-    [[menu.main]]
-    name = "Crochet"
-    url = "/tags/crochet"
-    parent = "Products"
-    weight = 2
 
   [[menu.main]]
   name = "About"
