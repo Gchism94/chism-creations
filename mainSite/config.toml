@@ -32,43 +32,55 @@ disqusShortname = ""
 
   [[menu.main]]
   name = "Products"
-  URL = "products/"
+  pageRef = "products/"
+  weight = 10
+
+  [[menu.main]]
+  name = "Quiet Ears"
+  pageRef = "products/quiet-ears"
+  parent = "Products"
   weight = 1
+  
+  [[menu.main]]
+  name = "Crochet"
+  pageRef = "products/crochet"
+  parent = "Products"
+  weight = 2
 
   [[menu.main]]
   name = "About"
-  URL = "blog/"
-  weight = 2
+  pageRef = "blog/"
+  weight = 20
   
   [[menu.main]]
   name = "FAQ"
-  URL = "faq/"
-  weight = 3
+  pageRef = "faq/"
+  weight = 30
 
   #[[menu.main]]
   #name = "Contact"
-  #URL = "contact/"
-  #weight = 4
+  #UpageRefRL = "contact/"
+  #weight = 40
 
   ############# footer menu #############
   [[menu.footer]]
   name = "Products"
-  URL = "products/"
+  pageRef = "products/"
   weight = 1
 
   [[menu.footer]]
   name = "FAQ"
-  URL = "faq/"
+  pageRef = "faq/"
   weight = 3
 
   [[menu.footer]]
   name = "Terms & Conditions"
-  URL = "terms-conditions/"
+  pageRef = "terms-conditions/"
   weight = 4
 
   #[[menu.footer]]
   #name = "Contact"
-  #URL = "contact/"
+  #pageRef = "contact/"
   #weight = 5
 
 
