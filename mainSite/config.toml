@@ -32,18 +32,18 @@ disqusShortname = ""
 
   [[menu.main]]
   name = "Products"
-  hasChildren = true
+  url = "products/"
   weight = 1
 
     [[menu.main]]
     name = "Quiet Ears"
-    url = "/products/quiet-ears"
+    url = "/tags/quiet-ears"
     parent = "Products"
     weight = 1
   
     [[menu.main]]
     name = "Crochet"
-    url = "/products/crochet"
+    url = "/tags/crochet"
     parent = "Products"
     weight = 2
 
