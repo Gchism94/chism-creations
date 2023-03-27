@@ -31,13 +31,11 @@ disqusShortname = ""
 [menu]
 
   [[menu.main]]
-  identifier = "parent"
   name = "Products"
   hasChildren = true
   weight = 1
 
     [[menu.main]]
-    identifier = "quiet-ears"
     name = "Quiet Ears"
     url = "/products/quiet-ears"
     parent = "Products"
