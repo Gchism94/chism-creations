@@ -31,7 +31,7 @@ disqusShortname = ""
 [menu]
 
   [[menu.main]]
-  identifier = "products"
+  identifier = "parent"
   name = "Products"
   hasChildren = true
   weight = 1
