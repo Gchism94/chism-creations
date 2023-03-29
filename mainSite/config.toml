@@ -64,9 +64,14 @@ disqusShortname = ""
 
   ############# footer menu #############
   [[menu.footer]]
-  name = "Products"
-  url = "products/"
+  name = "Quiet Ears"
+  url = "quiet-ears/"
   weight = 1
+
+  [[menu.footer]]
+  name = "Crochet"
+  url = "crochet/"
+  weight = 2
 
   [[menu.footer]]
   name = "FAQ"
