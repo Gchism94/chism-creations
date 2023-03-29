@@ -30,23 +30,23 @@ disqusShortname = ""
 ############################## navigation ###############################
 [menu]
 
- [[main]]
+  [[menu.main]]
   name = "Quiet Ears"
   url = "products/"
   weight = 1
 
 
-  [[main]]
+  [[menu.main]]
   name = "About"
   url = "blog/"
   weight = 2
   
-  [[main]]
+  [[menu.main]]
   name = "FAQ"
   url = "faq/"
   weight = 3
 
-  #[[main]]
+  #[[menu.main]]
   #name = "Contact"
   #url = "contact/"
   #weight = 4
