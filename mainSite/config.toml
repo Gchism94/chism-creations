@@ -31,10 +31,21 @@ disqusShortname = ""
 [menu]
 
   [[menu.main]]
-  name = "Quiet Ears"
-  url = "products/"
+  name = "Products"
   weight = 1
+  hasChildren = true
+  
+    [[menu.main]]
+    parent = "Products"
+    name = "Quiet Ears"
+    url = "products/"
+    weight = 1
 
+    [[menu.main]]
+    parent = "Products"
+    name = "Crochet/quiet-ears"
+    url = "products/crochet"
+    weight = 1
 
   [[menu.main]]
   name = "About"
