@@ -45,7 +45,7 @@ disqusShortname = ""
     parent = "Products"
     name = "Crochet"
     url = "crochet"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
   name = "About"
