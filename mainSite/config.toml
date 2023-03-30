@@ -32,20 +32,8 @@ disqusShortname = ""
 
   [[menu.main]]
   name = "Products"
-  weight = 1
-  hasChildren = true
-  
-    [[menu.main]]
-    parent = "Products"
-    name = "Quiet Ears"
-    url = "products/quiet-ears/"
-    weight = 1
-
-    [[menu.main]]
-    parent = "Products"
-    name = "Crochet"
-    url = "products/crochet/"
-    weight = 2
+  url = "products/"
+  weight = 2
 
   [[menu.main]]
   name = "About"
