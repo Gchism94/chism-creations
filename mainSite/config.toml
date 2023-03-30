@@ -53,7 +53,7 @@ disqusShortname = ""
   ############# footer menu #############
   [[menu.footer]]
   name = "Products"
-  url = "products/"
+  url = "quiet-ears/"
   weight = 1
 
   [[menu.footer]]
