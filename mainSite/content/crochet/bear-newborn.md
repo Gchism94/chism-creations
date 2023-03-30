@@ -7,8 +7,8 @@ draft: false
 description : "Handmade crochet beanie"
 
 # product Price
-price: "32.00"
-priceBefore: "37.00"
+price: "18.00"
+priceBefore: "23.00"
 
 # Product Short Description
 shortDescription: "Handmade crochet beanie"

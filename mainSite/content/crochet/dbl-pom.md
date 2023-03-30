@@ -7,8 +7,8 @@ draft: false
 description : "Handmade crochet beanie"
 
 # product Price
-price: "32.00"
-priceBefore: "37.00"
+price: "45.00"
+priceBefore: "50.00"
 
 # Product Short Description
 shortDescription: "Handmade crochet beanie"
@@ -28,7 +28,7 @@ images:
   - image: "images/products/DoublePom_4.jpg"
 ---
 
-Velvet yarn, crocheted to make a soft beanie. Crochet items are made by hand, and no machine can replicate the work. Hours are put into each piece to ensure the quality. **Adult size** is one-size fits all. **Child size** is made to comfortably fit 4 year olds. **Newborn size** is made to fit 0-12 month olds comfortably.
+Velvet yarn, crocheted to make a soft beanie. Crochet items are made by hand, and no machine can replicate the work. Hours are put into each piece to ensure the quality. **Adult size** is one-size fits all. 
 
 
 Two faux-fur poms are placed on either side of the beanie to create a cute ear effect. **Colors include quiet pink and soft blue**. 
