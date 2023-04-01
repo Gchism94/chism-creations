@@ -37,15 +37,21 @@ disqusShortname = ""
 
     [[menu.main]]
     parent = "Products"
+    name = "All Products"
+    url = "products/all-products"
+    weight = 2
+
+    [[menu.main]]
+    parent = "Products"
     name = "Quiet Ears"
     url = "products/quiet-ears"
-    weight = 1
+    weight = 2
 
     [[menu.main]]
     parent = "Products"
     name = "Crochet"
     url = "products/crochet"
-    weight = 2
+    weight = 3
 
 
   [[menu.main]]
@@ -66,13 +72,8 @@ disqusShortname = ""
   ############# footer menu #############
   [[menu.footer]]
   name = "Quiet Ears"
-  url = "products/quiet-ears"
+  url = "products/all-products"
   weight = 1
-
-  [[menu.footer]]
-  name = "Crochet"
-  url = "products/crochet"
-  weight = 2
 
   [[menu.footer]]
   name = "FAQ"
