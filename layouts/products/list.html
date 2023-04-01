@@ -35,7 +35,8 @@
             <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
               data-item-name="{{ .Title }}"  data-item-image="{{ $image }}"
               data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}"
-              data-item-custom1-name="Option selection">
+              data-item-custom1-name="Option selection" data-item-custom2-name="Size (Crochet only)"
+              data-item-custom2-options="Newborn[+0.00]|Child[+10.00]|Adult[+15.00]">
               Add to cart
             </button>
             {{ end }}

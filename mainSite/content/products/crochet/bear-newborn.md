@@ -30,7 +30,10 @@ images:
 section: "Crochet"
 ---
 
-Blanket yarn, crocheted to make a soft beanie. Crochet items are made by hand, and no machine can replicate the work. Hours are put into each piece to ensure the quality. Newborn size is made to fit 0-6 month olds comfortably.
+Blanket yarn, crocheted to make a soft beanie. Crochet items are made by hand, and no machine can replicate the work. Hours are put into each piece to ensure the quality. 
+
+Sizes available:
+**Newborn** size is made to fit 0-6 month olds comfortably. **There are no other sizes available for this item**.
 
 Two ears are placed on top to create a cute bear look. **Colors include gold and birch**.
 

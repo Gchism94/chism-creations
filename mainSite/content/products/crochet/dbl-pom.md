@@ -28,8 +28,17 @@ images:
   - image: "images/products/DoublePom_4.jpg"
 ---
 
-Velvet yarn, crocheted to make a soft beanie. Crochet items are made by hand, and no machine can replicate the work. Hours are put into each piece to ensure the quality. **Adult size** is one-size fits all. 
+Velvet yarn, crocheted to make a soft beanie. Crochet items are made by hand, and no machine can replicate the work. Hours are put into each piece to ensure the quality. 
 
+**Sizes available**:
+
+**Newborn** size is made to fit 0-6 month olds comfortably (price: $30). 
+
+**Child** size is made to comfortably fit 4 year olds (Price: $40). 
+
+**Adult** size is made to fit most adults.
+
+Please indicate desired size in the drop-down at checkout. If no size is designated, you will receive adult sizing.
 
 Two faux-fur poms are placed on either side of the beanie to create a cute ear effect. **Colors include quiet pink and soft blue**. 
 
