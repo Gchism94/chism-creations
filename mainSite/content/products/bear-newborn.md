@@ -27,7 +27,7 @@ images:
   - image: "images/products/Bear_2.jpg"
 
 # Product section
-showProductSection: true
+section: "Crochet"
 ---
 
 Blanket yarn, crocheted to make a soft beanie. Crochet items are made by hand, and no machine can replicate the work. Hours are put into each piece to ensure the quality. Newborn size is made to fit 0-6 month olds comfortably.
