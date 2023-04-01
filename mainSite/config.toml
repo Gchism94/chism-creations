@@ -90,6 +90,9 @@ copyright = "| Copyright &copy; 2023 Chism Creations All Rights Reserved |"
 snipcartApiKey = "NjMxMWEzNTItYmFjOS00ODFkLTg3M2UtNWE2OTlhZjM5ODZhNjM4MTA4MTI0Njk3NzY2MDMx"
 currencySymbol = "$"
 
+# whether to show product sections among products
+showProductSections = true
+
   # Preloader
   [params.preloader]
   enable = true
