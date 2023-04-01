@@ -32,9 +32,9 @@ Velvet yarn, crocheted to make a soft beanie. Crochet items are made by hand, an
 
 **Sizes available**:
 
-**Newborn** size is made to fit 0-6 month olds comfortably (price: $30). 
+**Newborn** size is made to fit 0-6 month olds comfortably (**price: $30**). 
 
-**Child** size is made to comfortably fit 4 year olds (Price: $40). 
+**Child** size is made to comfortably fit 4 year olds (**Price: $40**). 
 
 **Adult** size is made to fit most adults.
 
