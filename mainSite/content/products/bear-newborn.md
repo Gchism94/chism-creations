@@ -2,6 +2,7 @@
 title: "Bear Crochet Hat (Newborn)"
 date: 2023-03-04T12:20:54-07:00
 draft: false
+showProductSection: true
 
 # meta description
 description : "Handmade crochet beanie"
@@ -24,6 +25,9 @@ type: "products"
 images:
   - image: "images/products/Bear_1.jpg"
   - image: "images/products/Bear_2.jpg"
+
+# Product section
+showProductSection: true
 ---
 
 Blanket yarn, crocheted to make a soft beanie. Crochet items are made by hand, and no machine can replicate the work. Hours are put into each piece to ensure the quality. Newborn size is made to fit 0-6 month olds comfortably.
