@@ -1,5 +1,5 @@
 ---
-title: "Double Pom Crochet Hat (Adult)"
+title: "Single Pom Crochet Hat (Adult)"
 date: 2023-03-04T12:20:52-07:00
 draft: false
 
