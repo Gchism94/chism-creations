@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Inclusion Bound!"
   content : "Quiet ears, adaptive mouse ears for noise canceling headphones"
-  image : "images/banner.jpg"
+  image : "images/banner.png"
   # button
   button:
     enable : true
@@ -27,7 +27,7 @@ cta:
   enable : true
   title : "Free shipping on orders of $75+"
   content : "Available for limited time only. Grab one while you still can!"
-  image : "images/cta.png"
+  image : ""
   overlayImage : "images/cta-overlay.png"
   button:
     label : "All Products"
