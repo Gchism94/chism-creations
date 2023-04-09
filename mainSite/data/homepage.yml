@@ -27,7 +27,7 @@ cta:
   enable : true
   title : "Free shipping on orders of $75+"
   content : "Available for limited time only. Grab one while you still can!"
-  overlayImage : "images/cta-overlay.png"
+  overlayImage : "images/cta-overlay-new.png"
   button:
     label : "All Products"
     link : "products/"
