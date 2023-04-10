@@ -53,7 +53,6 @@ disqusShortname = ""
     url = "products/crochet"
     weight = 3
 
-
   [[menu.main]]
   name = "About"
   url = "blog/"
