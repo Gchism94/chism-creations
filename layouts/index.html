@@ -111,7 +111,7 @@
         <h2>{{ .title | markdownify }}</h2>
         {{ end }}
       </div>
-      {{ range first 3 (where site.RegularPages "Type" "products") }}
+      {{ range first 6 (where site.RegularPages "Type" "products") }}
       {{ if not .IsSection }}
       {{ $image := "" }}
       {{ if .Params.Image }}
