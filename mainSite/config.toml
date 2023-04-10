@@ -71,7 +71,7 @@ disqusShortname = ""
 
   name = "Crochet"
   url = "products/crochet"
-  weight = 1
+  weight = 2
 
   [[menu.footer]]
   name = "FAQ"
