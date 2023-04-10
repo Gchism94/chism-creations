@@ -45,13 +45,13 @@ disqusShortname = ""
     parent = "Products"
     name = "Quiet Ears"
     url = "products/quiet-ears"
-    weight = 1
+    weight = 2
 
     [[menu.main]]
     parent = "Products"
     name = "Crochet"
     url = "products/crochet"
-    weight = 2
+    weight = 3
 
 
   [[menu.main]]
