@@ -4,7 +4,7 @@ date: 2023-03-04T12:20:52-07:00
 draft: false
 
 # meta description
-description : "Discover the warmth and craftsmanship of our handmade crochet beanies. Each beanie is meticulously crafted from blanket yarn, creating a soft and cozy accessory. With hours of dedicated handiwork, our crochet items showcase unmatched quality and attention to detail. Experience the unique artistry that only handcrafted pieces can offer."
+description : "Handmade crochet beanie"
 
 # product Price
 price: "45.00"

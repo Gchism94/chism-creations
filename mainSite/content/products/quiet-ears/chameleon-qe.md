@@ -4,7 +4,7 @@ date: 2023-03-04T12:20:54-07:00
 draft: false
 
 # meta description
-description : "Experience an inclusive journey with Quiet Ears - Disney Ears for noise-canceling headphones. Handcrafted and customizable, our high-quality ears create a comfortable and magical sensory experience for individuals with sensory disorders. Enhance your favorite Disney moments while providing noise reduction and personalized style. Discover the perfect blend of Disney magic and inclusivity today."
+description : "Adaptive mouse ears for noise canceling headphones."
 
 # product Price
 price: "32.00"
