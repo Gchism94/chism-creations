@@ -2,7 +2,7 @@
 title: "About Quiet Ears"
 date: 2023-02-14T10:22:16+06:00
 draft: false
-description : "this is a meta description"
+description : "Embrace the magic of Disney bounding while fostering inclusivity with Quiet Ears. Our adaptive headphone attachments allow Disney lovers with noise sensitivities to enjoy the parks without compromising comfort. Join the #inclusionbound movement as we combine character headbands and noise-canceling headphones with Quiet Ears. Experience the joy of Disney in a sensory-friendly way."
 image: "images/blog/AboutQuietEars.jpg"
 author: "Tressa Chism"
 ---

@@ -4,14 +4,15 @@ date: 2023-02-19T09:08:20-07:00
 draft: false
 
 # meta description
-description : "Quiet Ears, headband ears, OR kid sized ears"
+description : "Experience an inclusive journey with Quiet Ears - Disney Ears for noise-canceling headphones. Handcrafted and customizable, our high-quality ears create a comfortable and magical sensory experience for individuals with sensory disorders. Enhance your favorite Disney moments while providing noise reduction and personalized style. Discover the perfect blend of Disney magic and inclusivity today."
 
 # product Price
 price: "40"
 priceBefore: "45.00"
 
 # Product Short Description
-shortDescription: "Adaptive mouse ears for noise canceling headphones."
+shortDescription: "Adaptive mouse ears for noise canceling headphones" 
+
 
 #product ID
 productID: "24"
